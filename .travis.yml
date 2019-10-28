@@ -14,7 +14,7 @@ python:
   - "2.7"
   - "3.6"
   - "3.3"
-  env:
+env:
   - DJANGO_VERSION=2.1.13
   - DJANGO_VERSION=2.2.6
 install:
