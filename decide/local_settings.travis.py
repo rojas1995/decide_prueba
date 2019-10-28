@@ -1,4 +1,3 @@
-Learn more or give us feedback
 ALLOWED_HOSTS = ["*"]
 
 # Modules in use, commented modules that you won't use
